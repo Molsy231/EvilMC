@@ -1,5 +1,5 @@
 {
-    "token":"token-here",
+    "token":"OTkxMzQzMjk5MDc4MTM1ODM4.GbSSoX.033l3_aia98JFgTJI5NjnynmgZVshQkOB8cW3k",
     "whitelistmode": false,
     "autoResolver": true,
     "languageFileName": "ru",
@@ -14,7 +14,7 @@
         "enable": true,
         "botName": "EvilMC",
         "msg": "Упс... Похоже ты перешел кому-то дорогу, пожелаю только удачи",
-        "botPass": "theGreatEvilMC"
+        "botPass": "Molesey"
     },
 
     "maxThreads": {
