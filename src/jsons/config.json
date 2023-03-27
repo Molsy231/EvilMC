@@ -12,9 +12,9 @@
 
     "msgToServer": {
         "enable": true,
-        "botName": "EvilMC",
+        "botName": "Molesey",
         "msg": "Упс... Похоже ты перешел кому-то дорогу, пожелаю только удачи",
-        "botPass": "Molesey"
+        "botPass": "Mivo6061"
     },
 
     "maxThreads": {
